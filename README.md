@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Phrase Builder
 
 [Preview link]()
 
